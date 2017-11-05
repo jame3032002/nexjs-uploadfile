@@ -14,3 +14,5 @@ npm run dev
 
 #### Go to
 http://localhost:3000/
+
+**Blog:** https://goo.gl/22EW5F
